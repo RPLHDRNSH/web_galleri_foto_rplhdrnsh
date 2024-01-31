@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('beranda');
 });
 
-Route::get('/portofolio', function () {
-    return view('Portofolio');
+Route::get('/home', function () {
+    return view('home');
 });
