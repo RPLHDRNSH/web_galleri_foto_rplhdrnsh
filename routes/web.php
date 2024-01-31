@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('portofolio');
+    return view('beranda');
 });
 
 Route::get('/portofolio', function () {
