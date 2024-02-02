@@ -62,8 +62,8 @@
     </form>
 
     <p class="mt-10 text-center text-sm text-gray-50">
-      Not a member?
-      <a href="#" class="font-semibold leading-6 text-amber-400 hover:text-amber-700">Start a 14 day free trial</a>
+    Already have an account?
+      <a href="#" class="font-semibold leading-6 text-amber-400 hover:text-amber-700">Sign in</a>
     </p>
   </div>
 </div>
